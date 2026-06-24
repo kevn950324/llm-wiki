@@ -1,0 +1,660 @@
+## J P M O R G A N
+
+## Nan Ya Plastics Corp
+
+Blue skies turn to reality, raise PT to NT$200; good progress on M9/M10 CCL and T-glass; AI-grade might form &gt;50% of mix by 2028
+
+Nan Ya Plastics' share price has rallied by &gt;40% over the past week (vs. Taiex: +8%) due to continued competitor price hikes across electronic materials, and rising  expectations  for  potential  good  news  from  the  company's  M9/M10 qualification with Nvidia. We think the vast majority of investors remain skeptical and uninvested in Nan Ya Plastics, preferring more obvious pure-play PCB chain companies, which on average are up by 182% YTD (Tier 1/2: +221% YTD, see Fig 4). An M9/M10 order win in coming months might be the much-needed catalyst to trigger a valuation multiple re-rating, in our view. We raise 2026/27/28E EPS by 38-65% to reflect recent competitor price hikes and higher AI-grade product mix (JPMe M7+ now &gt;60% of CCL revenue by 2028, and low-dk &gt;50% of glass fiber revenue, versus negligible in 2025), and PT to a street high of NT$200/sh (4x P/B, ~30% 2028E ROE). Our PT implies 2026/27 P/Es of 23x/15x, offering a 5% 2027E dividend yield even at NT$200/share.
+
+- Good progress on M8-M10 CCL and T-glass: As recently as 2025, NPC had less than 10% specialty grade electronic material exposure (mostly M4/M6 CCL and E-glass), with highly cyclical earnings. As such, even though NPC's 2025 CCL capacity was similar to Elite Material's, its CCL revenue and ASP was less than half of EMC's. We forecast NPC's gap versus industry leaders like EMC/Nittobo to narrow in coming years given the company's progress in next-gen electronic materials. NPC has won multiple M7/M8 orders over the past year and is ramping up production, and was one of 3 companies reportedly selected for M10 sampling with Nvidia. NPC was also successful in launching T-glass production and plans to triple capacity by 2028. Given the company is now operating at close to max utilization for most of its products and only has one major copper foil expansion starting in 1Q27, we view the next positive catalysts as: (1) successful M9-10 qualification, (2) expansion of high margin electronic  material  capacity,  and  (3)  further  upward  earnings  revisions  on product mix improvement and price hikes.
+- Commodity-grade EM upcycle might last longer than you think: On 14 January,  we  highlighted  our  expectation  for  commodity-grade  electronic materials to enter a bull market due to the 'server supercycle' coming from higher AI inference demand. NPC has a historical niche in general server EM, for which many customers are expected to migrate from M6 CCL to M7+ CCL in  2H26.  We  note  that  capacity  upgrades  typically  come  with  a  capacity conversion loss of 15-60% depending on product, exacerbating the shortage. While previous EM upcycles typically lasted 2 years, we do not rule out the potential for this cycle to be longer given significant capacity conversion loss against a backdrop of strong AI demand. We model NPC's electronic materials OPM peaking at a new record high of 28%, and note that even when the industry downcycle inevitably returns, we expect NPC's transition into M8-10 CCL, T-glass and HVLP 3+ copper foil to help keep margins above 10%.
+- NER glass for M9 - broadening the opportunity for NPC . As noted by our analyst  covering  Nitto  Boseki,  Mio  Shikanai,  enquiries  for  NER-glass
+
+Sources for: Style Exposure - J.P. Morgan Global Markets Strategy; all other tables are company data and J.P. Morgan estimates.
+
+See page 10 for analyst certification and important disclosures, including non-US analyst disclosures.
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+## Overweight
+
+1303.TW, 1303 TT Price (18 Jun 26):NT$139.00
+
+▲Price Target (Dec-27):NT$200.00 Prior (Jun-27):NT$125.00
+
+## Head of Asia Energy &amp; Chemicals | Asia EV Battery
+
+## Parsley Ong  AC
+
+(65) 6882-8578
+
+parsley.rh.ong@jpmorgan.com
+
+J.P. Morgan Securities Singapore Private Limited/ J.P. Morgan Securities (Asia Pacific) Limited/ J.P. Morgan Broking (Hong Kong) Limited
+
+## Michelle Wong
+
+(852) 2800 8556
+
+michelle.wong@jpmorgan.com
+
+J.P. Morgan Securities (Asia Pacific) Limited/ J.P. Morgan Broking (Hong Kong) Limited
+
+## Vicky Hsia
+
+(852) 2800 3752
+
+vicky.hsia@jpmorgan.com
+
+J.P. Morgan Securities (Asia Pacific) Limited/ J.P. Morgan Broking (Hong Kong) Limited
+
+| Key Changes (FYE Dec)   | Key Changes (FYE Dec)   | Key Changes (FYE Dec)   | Key Changes (FYE Dec)   |
+|-------------------------|-------------------------|-------------------------|-------------------------|
+|                         | Prev                    | Cur                     | Δ                       |
+| Adj. EPS - 26E (NT$)    | 6.26                    | 8.63                    | 37.8%                   |
+| Adj. EPS - 27E (NT$)    | 8.13                    | 13.41                   | 64.9%                   |
+
+## Style Exposure
+
+| Quant    | Current   | Hist %Rank (1=Top)   | Hist %Rank (1=Top)   | Hist %Rank (1=Top)   | Hist %Rank (1=Top)   |
+|----------|-----------|----------------------|----------------------|----------------------|----------------------|
+| Factors  | %Rank     | 6M                   | 1Y                   | 3Y                   | 5Y                   |
+| Value    | 29        | 68                   | 73                   | 58                   | 54                   |
+| Growth   | 28        | 94                   | 83                   | 89                   | 91                   |
+| Momentum | 11        | 28                   | 92                   | 69                   | 21                   |
+| Quality  | 91        | 92                   | 89                   | 86                   | 88                   |
+| LowVol   | 78        | 62                   | 28                   | 26                   | 25                   |
+| ESGQ     | 87        | 94                   | 96                   | 6                    | 92                   |
+
+
+![[Nan Ya Plastics(1303TW) JPM 260621_001.png]]
+
+
+1303.TWPrice(NT$)
+
+—TSE(rebased)
+
+
+
+## Company Data
+
+| Shares O/S (mn)                       | 7,931           |
+|---------------------------------------|-----------------|
+| 52-week range (NT$)                   | 139.00-26.25    |
+| Market cap ($ mn)                     | 34,902          |
+| Exchange rate                         | 31.58           |
+| Free float (%)                        | 61.0%           |
+| 3M ADV (mn)                           | 82.29           |
+| 3M ADV ($ mn)                         | 240.8           |
+| Volatility (90 Day)                   | 80              |
+| Index                                 | TAIEX           |
+| BBG ANR (Buy &#124; Hold &#124; Sell) | 6&#124;2&#124;1 |
+
+## Key Metrics (FYE Dec)
+
+| NT$ in millions          | FY25A   | FY26E   | FY27E   | FY28E   |
+|--------------------------|---------|---------|---------|---------|
+| Financial Estimates      |         |         |         |         |
+| Revenue                  | 259,912 | 304,503 | 376,983 | 419,829 |
+| Adj. EBITDA              | 26,221  | 52,255  | 81,056  | 101,240 |
+| Adj. EBIT                | 3,704   | 29,591  | 57,883  | 77,611  |
+| Adj. net income          | 4,519   | 68,454  | 106,347 | 120,294 |
+| Adj. EPS                 | 0.57    | 8.63    | 13.41   | 15.17   |
+| BBG EPS                  | 0.41    | 6.49    | 6.82    | 9.78    |
+| Cashflow from operations | 8,649   | 72,768  | 108,667 | 132,034 |
+| FCFF                     | (754)   | 63,502  | 98,845  | 124,217 |
+| Margins and Growth       |         |         |         |         |
+| Revenue Growth Y/Y (%)   | 0.1%    | 17.2%   | 23.8%   | 11.4%   |
+| EBITDA margin            | 10.1%   | 17.2%   | 21.5%   | 24.1%   |
+| EBITDA Growth Y/Y (%)    | 13.3%   | 99.3%   | 55.1%   | 24.9%   |
+| EBIT margin              | 1.4%    | 9.7%    | 15.4%   | 18.5%   |
+| Net margin               | 1.7%    | 22.5%   | 28.2%   | 28.7%   |
+| Adj. EPS growth          | 35.3%   | 1414.9% | 55.4%   | 13.1%   |
+| Ratios                   |         |         |         |         |
+| Adj. tax rate            | 21.6%   | 21.6%   | 21.6%   | 21.6%   |
+| Interest cover           | 10.7    | 19.9    | 32.7    | 49.7    |
+| Net debt/Equity          | 0.3     | 0.2     | 0.2     | 0.1     |
+| Net debt/EBITDA          | 4.8     | 1.8     | 1.0     | 0.5     |
+| ROCE                     | 0.6%    | 4.5%    | 8.7%    | 11.3%   |
+| ROE                      | 1.3%    | 18.7%   | 27.2%   | 28.9%   |
+| Valuation                |         |         |         |         |
+| FCFF yield               | (0.1%)  | 5.8%    | 9.0%    | 11.3%   |
+| Dividend yield           | 0.6%    | 4.3%    | 7.2%    | 8.7%    |
+| EV/Revenue               | 4.8     | 4.0     | 3.2     | 2.8     |
+| EV/EBITDA                | 47.5    | 23.2    | 14.8    | 11.6    |
+| Adj. P/E                 | 244.0   | 16.1    | 10.4    | 9.2     |
+
+## Summary Investment Thesis and Valuation Investment Thesis
+
+NPC is a major producer of electronic materials (CCL, Copper foil,  Epoxy  Resin,  glass  fiber,  PCB),  polyester,  chemicals (mainly MEG/BPA), and PVC plastics. We are OW on NPC on the  back  of  emerging  EPS  positives  from  a  multi-year  PCB material supply tightness and its transition towards specialty grade  electronic  materials.  While  we  estimate  that  &gt;90%  of NPC's  electronic  materials  sales  are  commodity-grade  with lower margins as of 2025, an improving product mix, utilisation uptick and price hikes on the back of tightening industry S&amp;D in the coming years should drive OPM upside for the segment, in our view.
+
+## Valuation
+
+Our Dec-27 PT of NT$200 is based on a one-year forward P/B of 4x to reflect new record high ROE of close to 30% by 2028 (previous:  2.5x,  15-20%  ROE). This is due to the structural improvement in electronic material margins caused by NPC's transition towards AI-grade electronic materials. We see NPC's ROE  improving  to  &gt;25%  over  the  next  two  years.  For comparison, NPC's historical 10-year average P/B and ROE are 1.6x and 9%, respectively.
+
+
+
+Source: J.P. Morgan Global Markets Strategy for Performance Drivers; company data, Bloomberg Finance L.P. and J.P. Morgan estimates for all other tables. Note: Price history may not be complete or exact.
+
+| Performance Drivers   | Performance Drivers   | Performance Drivers   | Performance Drivers   | Performance Drivers   | Performance Drivers   |
+|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+application  on  M9  CCL  have  been  emerging  on  the  back  of  advancement  in  resin technology. This marks an expansion in TAM as M9 was originally qualified for Q-glass only (Figure 3 C o m a p i r s n f d t l c e h g - b u ). We view this as positive for NPC's M9 CCL market entry, as the company's  partnership  with  Nittobo  (JPM  note)  also  includes  long-term  supply agreement of NER-yarn, which is earmarked for exclusive use for NPC's in-house CCL production. We believe NPC has submitted M9/M10 samples with both NER and Q glass options,  and  is  currently  awaiting  customer  qualification  with  potential  end-2026 production and earnings contribution in 2027. NPC's breakthrough in M7+ CCL markets could represent a significant margin driver. Compared to NPC's previous M6 or lower products, we estimate an upgrade to M7-8 might lift prices by 30-80%, while an upgrade to M9 might lift prices by over 5x.
+
+- Further upside to the 10%-40% industry price hikes: Following the 10%-40% price hike announcement across the industry in early Apr, major CCL producers (EMC, ITEQ, TUC) have all been printing record high single month sales (JPM notes on Apr/May revenue release), while NPC sees revenue reaching a 45+ month high. Price hikes have been swiftly converting to earnings, with EMC's May attributable NP reaching NT $3.25bn, +199% y/y and already representing 40% of 2Q consensus. Post Kingboard's price hike announcement, NPC commented that 'pricing deliberation with clients will continue' to ensure 'full reflection of ongoing market S-D condition'. Management had previously guided in our fireside chat that 2Q margin improvement remains on track as the full quarter contribution of the CCL price hike (16 Mar) feeds through, and we expect the 2Q electronic materials margin to exceed 15% (+11pct y/y), marking a three-year high.
+- Raise EPS by 38%-65% and PT to a new Street-high of NT$200 : We raise FY26-28E EPS to reflect an improved electronic materials product mix, as well as upward revisions to consensus expectations for NYT (equity method income) and NY PCB. Our FY26-28 EPS is 34-97% above the Street. We now forecast NE/NER/T glass to account for 50% of glass fiber  revenue by 2028 (previous: 20%), while M7+ will account for &gt;60% of CCL revenue  by  2028  (previous:  30%).  The  improved  product  mix  results  in  electronic materials OPM reaching a new record high of 28% in 2Q28, versus the previous peak of 23% in 2Q21. Our PT is based on 4x P/B (previous: 2.5x) to reflect ROE rising to 29% by 2028 (previous: 20%). Our revised PT of NT$200 implies 15x 2027 P/E, versus industry peers at 27-78x 2027E P/E and 11x P/B, ROE 28% (Figure 4).
+
+Figure 1: NPC quarterly earnings (NT$mn)
+
+| Unit:NTDinmillions               | 1Q25       | 2Q25           | 3Q25         | 4Q25         | 1Q26         | 2Q26e   | 3Q26e        | 4Q26e        | 2020           | 2021           | 2022           | 2023            | 2024          | 2025          | 2026E            | 2027E            | 2028E            | 2028E            | 2028E            | 2028E            | 2028E            |
+|----------------------------------|------------|----------------|--------------|--------------|--------------|---------|--------------|--------------|----------------|----------------|----------------|-----------------|---------------|---------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+| Revenue                          | 65,552     | 65,716         | 64,177       | 64,467       | 68,600       | 75,407  | 75,685       | 84,812       | 273,354        | 411,670        | 355,183        | 259,755         | 259,608       | 259,912       | 304,503          | 376,983          | 419,829          | 419,829          | 419,829          | 419,829          | 419,829          |
+| Plastics(PVC products)           | 9.030      | 9.235          | 8.982        | 9.005        | 9,122        | 9,214   | 8.192        | 8.192        | 40.921         | 48.624         | 43,419         | 38.539          | 39.238        | 36.251        | 34,721           | 34.902           | 35.082           | 35.082           | 35.082           | 35.082           | 35.082           |
+| Electronicmaterials              | 28,033     | 29,877         | 29.911       | 32,797       | 36,222       | 43,000  | 43,558       | 52,685       | 119,777        | 182.319        | 160,662        | 115,546         | 108.365       | 120,618       | 175.465          | 247,227          | 288.765          | 288.765          | 288.765          | 288.765          | 288.765          |
+| Polyester                        | 11,787     | 10.588         | 9.405        | 9.918        | 10,712       | 10.819  | 10.718       | 10.718       | 43.580         | 58.320         | 63.957         | 45.211          | 48.510        | 41,698        | 42.968           | 42.968           | 42.968           | 42.968           | 42.968           | 42.968           | 42.968           |
+| Chemicals (MEG.BPA.etc.)         | 15.631     | 14.763         | 14,728       | 11,544       | 11,162       | 11,274  | 12.116       | 12.116       | 64.902         | 117,234        | 82,491         | 54,900          | 58.363        | 56.665        | 46.669           | 47.207           | 48.334           | 48.334           | 48.334           | 48.334           | 48.334           |
+| Others                           | 1.071      | 1,255          | 1.152        | 1.202        | 1.381        | 1,100   | 1,100        | 1.100        | 4,174          | 5.173          | 4.654          | 5.560           | 5.134         | 4.680         | 4.680            | 4.680            | 4.680            | 4.680            | 4.680            | 4.680            | 4.680            |
+| OperatingIncome                  | 36         | 1,302          | 1,036        | 1,329        | 3,780        | 6,543   | 7,631        | 11,638       | 21,220         | 80,984         | 32,044         | 1,962           | 435           | 3,704         | 29,591           | 57,883           | 77,611           | 77,611           | 77,611           | 77,611           | 77,611           |
+| Plastics(PVC products)           | 697        | 733            | 757          | 799          | 855          | 864     | 768          | 464          | 3.562          | 3.257          | 2.142          | 2.500           | 3.097         | 2.985         | 2.951            | 3.071            | 3.087            | 3.087            | 3.087            | 3.087            | 3.087            |
+| Electronic materials             | 482        | 1.196          | 1,124        | 2,485        | 4.759        | 6.665   | 7.187        | 9.463        | 12.250         | 40.014         | 28.206         | 5.589           | (30)          | 5.287         | 28.074           | 54.390           | 72,191           | 72,191           | 72,191           | 72,191           | 72,191           |
+| Polyester                        | (148)      | 103            | (363)        | (308)        | (235)        | (237)   | (235)        | 1.136        | 1,673          | 6.063          | 4.124          | (585)           | (473)         | (716)         | 430              | 430              | 430              | 430              | 430              | 430              | 430              |
+| Chemicals (MEG,BPA)              | (1.477)    | (827)          | (1,076)      | (2.024)      | (1.792)      | (902)   | (242)        | 136          | 2,215          | 32,709         | 2.399          | (6.287)         | (3,549)       | (5,403)       | (2,800)          | (944)            | 967              | 967              | 967              | 967              | 967              |
+| Others                           | 482        | 97             | 594          | 377          | 192          | 153     | 153          | 438          | 1,520          | (1,042)        | (4.828)        | 751             | 1,390         | 1,551         | 936              | 936              | 936              | 936              | 936              | 936              | 936              |
+| OPM                              | 0.1%       | 2.0%           | 1.6%         | 2.1%         | 5.5%         | 8.7%    | 10.1%        | 13.7%        | 7.8%           | 19.7%          | 9.0%           | 0.8%            | 0.2%          | 1.4%          | 9.7%             | 15.4%            | 18.5%            | 18.5%            | 18.5%            | 18.5%            | 18.5%            |
+| Plastics(PVCproducts)            | 7.7%       | 7.9%           | 8.4%         | 8.9%         | 9.4%         | 9.4%    | 9.4%         | 5.7%         | 8.7%           | 6.7%           | 4.9%           | 6.5%            | 7.9%          | 8.2%          | 8.5%             | 8.8%             | 8.8%             | 8.8%             | 8.8%             | 8.8%             | 8.8%             |
+| Electronic materials             | 1.7%       | 4.0%           | 3.8%         | 7.6%         | 13.1%        | 15.5%   | 16.5%        | 18.0%        | 10.2%          | 21.9%          | 17.6%          | 4.8%            | 0.0%          | 4.4%          | 16.0%            | 22%              | 25%              | 25%              | 25%              | 25%              | 25%              |
+| Polyester                        | -1.3%      | 1.0%           | -3.9%        | -3.1%        | -2.2%        | -2.2%   | -2.2%        | 10.6%        | 3.8%           | 10.4%          | 6.4%           | -1.39%          | -1.0%         | -1.7%         | 1.0%             | 1.0%             | 1.0%             | 1.0%             | 1.0%             | 1.0%             | 1.0%             |
+| Chemicals（MEG,BPA)               | -9.5%      | -5.6%          | -7.3%        | -17.5%       | -16.0%       | -8.0%   | -2.0%        | 1.19         | 3.4%           | 27.9%          | 2.9%           | -11.5%          | -6.1%         | -9.5%         | -6.0%            | -2.0%            | 2.0%             | 2.0%             | 2.0%             | 2.0%             | 2.0%             |
+| Others                           | 45.1%      | 7.7%           | 51.6%        | 31.4%        | 13.9%        | 13.9%   | 13.9%        | 39.9%        | 36.4%          | -20.2%         | -103.7%        | 13.5%           | 27.1%         | 33.1%         | 20.0%            | 20.0%            | 20.0%            | 20.0%            | 20.0%            | 20.0%            | 20.0%            |
+| Equty Income (23%FPCC,29.5% NYT) | 436        | (2.972)        | 2.208        | 3,919        | 12,120       | 14.415  | 13,862       | 18,531       | 6.643          | 20,748         | 4,819          | 3.974           | 1.414         | 3,590         | 58.928           | 79,021           | 76,591           | 76,591           | 76,591           | 76,591           | 76,591           |
+| Othernon-OP                      | 342        | (2,524)        | 756          | 591          | 180          | (179)   | (179)        | (179)        | 2,575          | 1.731          | 10.688         | 3.194           | 2,675         | (834)         | (357)            | 62               | 727              | 727              | 727              | 727              | 727              |
+| Total Non-op Income              | 778        | (5,496)        | 2,964        | 4,510        | 12,300       | 14,236  | 13,683       | 18,353       | 9,218          | 22,480         | 15,507         | 7,168           | 4,089         | 2,755         | 58,572           | 79,084           | 77,318           | 77,318           | 77,318           | 77,318           | 77,318           |
+| Pre-taxIncome                    | 814        | (4,194)        | 4,000        | 5,839        | 16,080       | 20,779  | 21,314       | 29,990       | 30,438         | 103,464        | 47,551         | 9,130           | 4,523         | 6,459         | 88,163           | 136,966          | 154,928          | 154,928          | 154,928          | 154,928          | 154,928          |
+| TaxExpense Minority Interest     | (OZ)       | (11) 89        | (521) (219)  | (541)        | (1.405)      | (1.816) | (1.863)      | (13.934)     | (3.813)        | (18.631)       | (9,066)        | (1.020) (1.800) | (1.216) 33    | (1.393)       | (19.018) (691)   | (29.545) (1.074) | (33.420) (1,215) | (33.420) (1,215) | (33.420) (1,215) | (33.420) (1,215) | (33.420) (1,215) |
+|                                  | (41)       |                |              | (377)        | (420)        | (90)    | (90)         | (90)         | (915)          | (3.538)        | (6.376)        |                 | 3,340         | (547) 4,519   |                  |                  |                  |                  |                  |                  |                  |
+| NetIncome                        | 453 0.06   | (4,116) (0.52) | 3,260        | 4,922        | 14,255       | 18,872  | 19,360       | 15,966       | 25,709         | 81,295         | 32,109         | 6,310           |               | 8.63          | 68,454           | 106,347 13.41    | 15.17            | 15.17            | 15.17            | 15.17            | 15.17            |
+| EPS ROE%                         |            |                | 0.41         | 0.62         | 1.80         | 2.38    | 2.44         | 2.01         | 3.24           | 10.25 21.4%    | 4.05 8.1%      | 0.80 1.7%       | 0.42 0.9%     | 0.57 1.3%     | 18.7%            | 27.2%            | 29%              | 29%              | 29%              | 29%              | 29%              |
+| DPS Payout% Consensus            | 66,212     | 68.651         |              |              | 74% 20y      | 74,612  |              |              | 7.5% 2.40      | 7.50 73% 21y   | 3.00 74% 22y   | 0.70 88% 23y    | 0.70 166%     | 0.80 140%     | 6.04 70% 26y 27y | 10.06 75% 24y    | 12.13 80%        | 25y              | 12.13 80%        | 28y              | 12.13 80%        |
+| Sales                            |            | 1,335          | 66.344 1,485 | 67,210 1.985 | 66.359 1.477 | 5.156   | 76.381 6.511 | 77,604 6.312 | 268.201 16.051 | 406.871 77,646 | 371,956 34.108 | 292.931 2.604   | 253.426 1,522 | 264,203 4.326 | 289.531 20.330   | 310.959 29.350   | 372,214 38.694   | 372,214 38.694   | 372,214 38.694   | 372,214 38.694   | 372,214 38.694   |
+| OP                               | 379        | (1.321)        | 2.990        | 2.239        | 6.628        |         |              |              |                |                |                |                 | 5.396         |               | 51.131           | 54.139           | 77.552           | 77.552           | 77.552           | 77.552           | 77.552           |
+| NP                               | 1.469 0.15 |                |              |              |              | 13.190  | 16.484       | 15.827       | 21.439         | 79.688         | 39.922         | 9.389           |               | 3.447         |                  |                  |                  |                  |                  |                  |                  |
+|                                  |            | (0.05)         | 0.35         | 0.43         | 1.01         |         |              |              |                | 10.12          | 4.94           | 1.11            |               | 0.41          |                  |                  | 9.78             | 9.78             | 9.78             | 9.78             | 9.78             |
+|                                  |            |                |              |              |              |         |              |              |                |                |                |                 |               |               | 6.49             |                  |                  |                  |                  |                  |                  |
+|                                  |            |                |              |              |              | 1.66    |              |              |                |                |                |                 |               |               |                  |                  |                  |                  |                  |                  |                  |
+|                                  |            |                |              |              |              |         |              |              | 2.53           |                |                |                 |               |               |                  |                  |                  |                  |                  |                  |                  |
+| EPS                              |            |                |              |              |              |         |              |              |                |                |                |                 |               |               |                  |                  |                  |                  |                  |                  |                  |
+|                                  |            |                |              |              |              |         | 2.08         |              |                |                |                |                 |               |               |                  |                  |                  |                  |                  |                  |                  |
+|                                  |            |                |              |              |              |         |              |              |                |                |                |                 |               |               |                  |                  |                  |                  | 2.00             |                  |                  |
+|                                  |            |                |              |              | 0.80         |         |              |              |                |                |                |                 | 6.82          |               |                  |                  |                  |                  |                  |                  |                  |
+
+Source: Company data, JP Morgan estimates
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+Figure 2: NPC electronic material OPM %
+
+
+![[Nan Ya Plastics(1303TW) JPM 260621_002.png]]
+
+
+Source: Company data, J.P. Morgan estimates
+
+Figure 4: AI Materials comps
+
+| Ticker                     |         | JPMratingYTD share   | P/BV(x)   | P/BV(x)   | P/BV(x)   | PE(x)   | PE(x)   | PE(x)   | Div yld (%)   | Div yld (%)   | Div yld (%)   | EPS yly growth (%)   | EPS yly growth (%)   | EPS yly growth (%)   | ROE (%)   | ROE (%)   | ROE (%)   |
+|----------------------------|---------|----------------------|-----------|-----------|-----------|---------|---------|---------|---------------|---------------|---------------|----------------------|----------------------|----------------------|-----------|-----------|-----------|
+|                            |         | price perf           | 2026E     | 2027E     | 2028E     | 2026E   | 2027E   | 2028E   | 2026E         | 2027E         | 2028E         | 2026E                | 2027E                | 2028E                | 2026E     | 2027E     | 2028E     |
+| PCB avg                    |         | 80%                  | 12.3      | 9.2       | 6.4       | 42      | 28      | 20      | 0.7           | 1.2           | na            | 73                   | 51                   | 41                   | 33.3      | 37.0      | 37.7      |
+| Glass Fiber avg            |         | 253%                 | 30.7      | 22.5      | 15.4      | 127     | 78      | 67      | 0.6           | 0.8           | 1.0           | 285                  | 58                   | 30                   | 14.3      | 18.1      | 19.8      |
+| Copper foil avg            |         | 156%                 | 8.5       | 6.8       | 2.9       | 47      | 41      | 23      | 0.4           | 0.7           | 1.0           | 81                   | 124                  | 71                   | 16.4      | 23.9      | 28.1      |
+| CCLavg                     |         | 245%                 | 12.6      | 9.3       | 7.0       | 43      | 27      | 20      | 1.1           | 1.6           | 2.4           | 148                  | 56                   | 37                   | 27.0      | 32.7      | 34.9      |
+| MLCC upstream avg          |         | 198%                 | 13.2      | 10.6      | 8.5       | 87      | 64      | 50      | 1.0           | 1.0           | 1.1           | 77                   | 32                   | 25                   | 13.5      | 15.5      | 15.6      |
+| MLCCavg                    |         | 332%                 | 7.7       | 6.9       | 6.1       | 84      | 60      | 35      | 0.7           | 0.8           | 1.0           | 48                   | 40                   | 37                   | 10.7      | 13.8      | 17.6      |
+| Memory avg                 |         | 217%                 | 4.6       | 2.8       | 2.0       | 9       | 1       | 7       | 1.6           | 2.1           | 2.7           | 952                  | 34                   | 2                    | 65.2      | 48.7      | 35.3      |
+| Nanya Plastic (NPC) 1303TT |         | OW 1319              | 2.9       | 2.7       | 2.6       | 16      | 10      | 9       | 4.3           | 7.2           | 8.7           | 1415                 | 55                   | 13                   | 18.7      | 27.2      | 28.9      |
+| FCFC                       | 1326TT  | OW 9%69              | 0.9       | 0.9       | 0.9       | 27      | 19      | 13      | 0.0           | 0.0           | 0.1           | 206                  | 138                  | 144                  | 3.4       | 4.6       | 6.5       |
+| FPC                        | 1301TT  | OW 33%               | 1.3       | 1.2       | 1.2       | 14      | 13      | 9       | 0.1           | 0.1           | 0.1           | 361                  | 104                  | 139                  | 2.0       | 3.5       | 5.4       |
+| FPCC                       | 6505 TT | OW 12%               | 0.9       | 0.9       | 0.9       | 47      | 27      | 18      | 0.0           | 0.0           | 0.0           | 72                   | 177                  | 153                  | 9.6       | 9.5       | 12.7      |
+
+Source: Bloomberg Finance LP, J.P. Morgan Asia Energy Research. Priced on 20 June 2026. Note: PCB, Glass Fiber, Copper foil, CCL and Memory basket show the simple average valuation multiples of Asia-listed peers - detailed comps sheet available on request.
+
+Figure 5: China FR4 CCL ASP (Rmb/sheet)
+
+
+![[Nan Ya Plastics(1303TW) JPM 260621_003.png]]
+
+
+Source: Company data, J.P. Morgan Asia Energy Research
+
+Figure  6:  China  G75  electronic  glass  fiber  yarn price
+
+Rmb/t
+
+
+![[Nan Ya Plastics(1303TW) JPM 260621_004.png]]
+
+
+Source: Company data, Wind, J.P. Morgan Asia Energy Research
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+Figure 3: NPC electronic material OP split (NT$bn)
+
+
+![[Nan Ya Plastics(1303TW) JPM 260621_005.png]]
+
+
+Source: Company data, J.P. Morgan estimates
+
+## J P M O R G A N
+
+Figure 7: Electronic material price hike announcements since 2025
+
+| Date                         | Company                                        | Announced Pricing adjustment                                                                             |
+|------------------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| CCL                          |                                                |                                                                                                          |
+| Jan 16th, 2026               | Resonac                                        | All CCL +30% for shipments from 1 Mar, 2026 onwards. Prev hike was 10% in Nov 2022 and 15% in Jan 2022   |
+| Mar 10th, 2026               | Kingboard                                      | +10% price hike across CCL/PP/copper foil processing fee                                                 |
+| Mar 16th, 2026               | NPC                                            | +15% across CCL products                                                                                 |
+| Apr 3rd, 2026                | Kingboard                                      | +10% price hike across CCL/PP products citing raw material price inflation                               |
+| Apr, 2026                    | EMC                                            | High-end CCL +10% from 2Q26                                                                              |
+| Apr, 2026                    | TUC                                            | +20%-40% for selected CCL products                                                                       |
+| Apr 9th, 2026                | Panasonic                                      | CCL/prepeg/FRP/FPC materials price +15-30% from May 2026                                                 |
+| Apr, 2026                    | ITEQ                                           | High-end CCL +10%                                                                                        |
+| Apr 28th, 2026               | Kingboard                                      | +10% price hike on FR4/PP products                                                                       |
+| May 27th, 2026               | Kingboard                                      | +10%/20% price hike on CCL/PP products                                                                   |
+| Jun, 2026                    | Kingboard                                      | +15% price hike on FR4/PP products                                                                       |
+| Electronic-grade Glass Fiber |                                                |                                                                                                          |
+| Aug 1st, 2025                | Nitto Boseki                                   | 20% price hike on various glass fiber products                                                           |
+| Apr-26                       | Nitto Boseki                                   | 30% price hike on T-glass, implemented April through July                                                |
+| Copper Foil                  |                                                |                                                                                                          |
+| Aug, 2025                    | Co-Tech                                        | 5-10% hike in processing fee for standard copper foil/HVLP4                                              |
+| Sep 29th, 2025               | China Electronic Material Industry Association | 'Recommendation' for an industry - wide increase in processing fees for electronic copper foil: +Rmb2/kg |
+| Sep, 2025                    | NPC                                            | Single-double digit% across conventional/high-end copper foil product                                    |
+| Oct, 2025                    | Mitsui Metal                                   | +US$2/kg (~15% increase) in high-end copper foil price                                                   |
+
+Source: Company data, J.P. Morgan Asia Energy Research. Above list not exhaustive.
+
+Figure 8: NPC monthly electronic material revenue NT$ bn
+
+
+![[Nan Ya Plastics(1303TW) JPM 260621_006.png]]
+
+
+Figure 9: NPC 2025 electronic materials revenue breakdown
+
+
+
+Source: Company  data. Based  on the company's preliminary disclosures; numbers may be restated in the audited quarterly financial statements.
+
+Source: Company data, J.P. Morgan
+
+Figure 10: J.P. Morgan earnings revision for Nan Ya Plastics
+
+| bnNTS                   | Current   | Current   | Current    | Previous   | Previous   | Previous   | Change   | Change   | Change   | Consensus   | Consensus   | Consensus   | JPMvCons   | JPMvCons   | JPMvCons   |
+|-------------------------|-----------|-----------|------------|------------|------------|------------|----------|----------|----------|-------------|-------------|-------------|------------|------------|------------|
+|                         | 26E       | 27E       | 28E        | 26E        | 27E        | 28E        | 26E      | 27E      | 28E      | 26E         | 27E         | 28E         | 26E        | 27E        | 28E        |
+| Formosa Group           |           |           |            |            |            |            |          |          |          |             |             |             |            |            |            |
+| NPC                     |           |           |            |            |            |            |          |          |          |             |             |             |            |            |            |
+| Revenue                 | 304.5     | 377.0     | 419.8      | 306.0      | 339.3      | 372.2      | %0       | 11%      | 13%      | 289.5       | 311.0       | 372.2       | 5%         | 21%        | 13%        |
+| OP                      | 29.6      | 57.9      | 77.6       | 26.6       | 39.9       | 52.4       | 11%      | 45%      | 48%      | 20.3        | 29.3        | 38.7        | 46%        | 97%        | 101%       |
+| NP                      | 68.5      | 106.3     | 120.3      | 49.7       | 64.5       | 77.6       | 38%      | 65%      | 55%      | 51.1        | 54.1        | 77.6        | 34%        | 96%        | 55%        |
+| DPS                     | 6.0       | 10.1      | 12.1 200.0 | 4.4        | 6.1        | 7.3 125.0  | 38%      | 65%      | %99      | 3.2         | 4.3         | 7.3         | 87%        | 136%       | 66%        |
+| PT (NTS/sh) Rating ROE% | 19%       | 27%       | oW 29%     |            |            | ow         |          |          |          |             |             |             |            |            |            |
+| DPSas%currpx            | 4%        | 7%        | 9%         |            |            |            |          |          |          |             |             |             |            |            |            |
+
+Source: J.P. Morgan estimates, Bloomberg Finance L.P. Priced on 20 June 2026.
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+Figure 11: NPC detailed earnings changes (NT$mn)
+
+|                     | Revised   | Revised   |   Revised | Previous   | Previous   |   Previous | Change   | Change   | Change   |
+|---------------------|-----------|-----------|-----------|------------|------------|------------|----------|----------|----------|
+|                     | 2026      | 2027      |      2028 | 2026       | 2027       |       2028 | 2026     | 2027     | 2028     |
+| Total OP            | 29,591    | 57,883    |    77,611 | 26,618     | 39,913     |     52,449 | 2,973    | 17,970   | 25,162   |
+| Plastics/PVC        | 2,951     | 3,071     |     3,087 | 2,951      | 3,071      |      3,087 |          |          |          |
+| Electronicmaterials | 28,074    | 54,390    |    72,191 | 25,586     | 36,598     |     46,899 | 2,488    | 17,792   | 25,292   |
+| PCB                 | 10,494    | 23,097    |    39,251 | 10,680     | 17,625     |     22,913 | (186)    | 5,472    | 16,338   |
+| CCL                 | 5,451     | 17,342    |    16,927 | 5,503      | 10,083     |      9,244 | (52)     | 7,258    | 7,683    |
+| Epoxy               | 1,256     | 1,895     |     2,804 | 1,256      | 1,353      |      1,402 |          | 541      | 1,402    |
+| Copper foil         | 2,812     | 3,938     |     6,070 | 973        | 2,379      |      4,150 | 1,839    | 1,559    | 1,920    |
+| Glass Cloth         | 2,037     | 2,448     |     2,445 | 1,135      | 1,313      |        873 | 902      | 1,135    | 1,571    |
+| Other               | 6,025     | 5,671     |     4,694 | 6,040      | 3,844      |      8,316 | (14)     | 1,827    | (3,622)  |
+| Polyester           | 430       | 430       |       430 | 430        | 430        |        430 |          |          |          |
+| Chems&other         | (2,800)   | (944)     |       967 | (2,349)    | (186)      |      2,033 | (451)    | (758)    | (1,066)  |
+| Non-OP              | 58,572    | 79,084    |    77,318 | 37,228     | 43,138     |     47,433 | 21,344   | 35,946   | 29,885   |
+| ofwhichNYT          | 49,627    | 71,085    |    65,001 | 29,178     | 35,939     |     36,348 | 20,449   | 35,146   | 28,653   |
+| Othernon-OP         | 8,945     | 7,999     |    12,316 | 8,050      | 7,199      |     11,085 | 894      | 800      | 1,232    |
+| Pretax              | 88,163    | 136,966   |   154,928 | 63,846     | 83,051     |     99,882 | 24,317   | 53,915   | 55,046   |
+| NP                  | 68,454    | 106,347   |   120,294 | 49,573     | 64,484     |     77,553 | 18,881   | 41,863   | 42,741   |
+
+Source: J.P. Morgan estimates, Bloomberg Finance L.P. Note: NYT and NYPCB earnings based on BBG consensus.
+
+Figure 12: 1week share price performance of PCB/CCL value chain names
+
+% share price move
+
+
+![[Nan Ya Plastics(1303TW) JPM 260621_007.png]]
+
+
+Source: Bloomberg Finance L.P., J.P. Morgan Asia Energy Research
+
+## Related Research
+
+Nan Ya Plastics Corp: &gt;20% electronic materials revenue growth in 2Q26? Accumulate on dips (8 Jun 2026)
+
+Nan Ya Plastics Corp: April revenue reached another 40+ month high. 2Q OPM expansion on track as price hike feeds through. Remain OW (7 May 2026)
+
+Nan  Ya  Plastics  Corp:  10-40%  CCL  price  hikes  across  the  industry  into  2Q;  positive management call takeaways (20 Apr 2026)
+
+Taiwan Energy: Blockbuster 1Q beat; raising PTs; stay OW on the full house; prefer NPC &gt; FPC/FCFC &gt;FPCC (12 Apr 2026)
+
+Asia  Chemicals:  China's  Anti-Involution,  Part  3:  More  policy  measures  crystallize,  we upgrade Formosa Group to full house OW; 2026 the start of a 3-year earnings upcycle?(24 Feb 2026)
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+Parsley Ong AC
+
+(65) 6882-8578
+
+parsley.rh.ong@jpmorgan.com
+
+Taiwan  Energy:  Strong  electronic  materials  beat;  remain  OW  on  NPC  for  AI-driven
+
+electronic materials price hikes and margin expansion in 2026 (12 Jan 2026)
+
+Nan Ya Plastics Corp: Share price +10% on another NYT record-high monthly revenue print;
+
+Next catalysts: M8 CCL and T-Glass entry in 2026? (8 Jan 2026)
+
+Nan  Ya  Plastics  Corp:  Solid  Nov  revenue  growth  momentum  illustrates  fundamental
+
+electronic material S-D tightness (8 Dec 2025)
+
+Electronic Materials Sector: First Take: Nan Ya Plastics and Nittobo announce specialty glass collaboration (30 Nov 2025)
+
+Taiwan Energy: Turning more positive post a four-year de-rating; upgrade NPC to OW on
+
+improved electronic materials earnings outlook; remain OW FPCC (21 Sep 2025)
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+Asia Pacific Equity Research
+
+21 June 2026
+
+J P M O R G A N
+
+Parsley Ong AC (65) 6882-8578 parsley.rh.ong@jpmorgan.com Asia Pacific Equity Research 21 June 2026
+
+## Investment Thesis, Valuation and Risks
+
+## Nan Ya Plastics Corp (Overweight; Price Target: NT$200.00)
+
+## Investment Thesis
+
+NPC is a major producer of electronic materials (CCL, Copper foil, Epoxy Resin, glass fiber, PCB), polyester, chemicals (mainly MEG/BPA), and PVC plastics. We are OW on NPC on the back of emerging EPS positives from a multi-year PCB material supply tightness and its transition towards specialty grade electronic materials. While we estimate that &gt;90% of NPC's electronic materials sales are commodity-grade with lower margins as of 2025, an improving product mix, utilisation uptick and price hikes on the back of tightening industry S&amp;D in the coming years should drive OPM upside for the segment, in our view.
+
+## Valuation
+
+Our Dec-27 PT of NT$200 is based on a one-year forward P/B of 4x to reflect new record high ROE of close to 30% by 2028 (previous: 2.5x, 15-20% ROE). This is due to the structural improvement in electronic material margins caused by NPC's transition towards AI-grade electronic materials. We see NPC's ROE improving to &gt;25% over the next two years. For comparison, NPC's historical 10-year average P/B and ROE are 1.6x and 9%, respectively.
+
+## Risks to Rating and Price Target
+
+Downside risks include weaker-than-expected MEG/BPA demand due to a weak macro or tariffs,  a  deceleration  in  global  AI/datacenter  capex,  unsuccessful  PCB/substrate  price hikes/ next-gen electronic material qualification, and a loss of electronic materials market share.
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+## Nan Ya Plastics Corp: Summary of Financials
+
+| Income Statement             | FY24A                                   | FY25A                                   | FY26E                                   | FY27E                                         | FY28E                                   | Cash Flow Statement                    | FY24A              | FY25A         | FY26E                    | FY27E             | FY28E         |
+|------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------------|-----------------------------------------|----------------------------------------|--------------------|---------------|--------------------------|-------------------|---------------|
+| Revenue                      | 259,608 259,912 304,503 376,983 419,829 | 259,608 259,912 304,503 376,983 419,829 | 259,608 259,912 304,503 376,983 419,829 | 259,608 259,912 304,503 376,983 419,829       | 259,608 259,912 304,503 376,983 419,829 | Cash flow from operating activities    | 18,786             | 8,649         | 72,768                   | 108,667           | 132,034       |
+| COGS                         |                                         |                                         |                                         | (241,034)(238,313)(255,577)(295,899)(316,707) |                                         | o/w Depreciation & amortization        | 22,032             | 21,933        | 22,345                   | 22,774            | 23,117        |
+| Gross profit                 | 18,574                                  | 21,599                                  | 48,926                                  | 81,084                                        | 103,123                                 | o/w Changes in working capital         | (4,244)            | (6,222)       | (15,694)                 | (20,802)          | (12,835)      |
+| SG&A                         | (18,228)                                | (17,896)                                | (19,359)                                | (23,237)                                      | (25,560)                                |                                        |                    |               |                          |                   |               |
+| Adj. EBITDA                  | 23,136                                  | 26,221                                  | 52,255                                  | 81,056                                        | 101,240                                 | Cash flow from investing activities    | (17,900)           | (11,332)      | (11,329)                 | (11,766)          | (9,413)       |
+| D&A                          | (22,702)                                | (22,518)                                | (22,664)                                | (23,173)                                      | (23,629)                                | o/w Capital expenditure                | (12,640)           | (11,329)      | (11,329)                 | (11,766)          | (9,413)       |
+| Adj. EBIT                    | 435                                     | 3,704                                   | 29,591                                  | 57,883                                        | 77,611                                  | as % of sales                          | 4.9%               | 4.4%          | 3.7%                     | 3.1%              | 2.2%          |
+| Net Interest                 | (2,063)                                 | (2,456)                                 | (2,631)                                 | (2,479)                                       | (2,036)                                 |                                        |                    |               |                          |                   |               |
+| Adj. PBT                     | 4,523                                   | 6,459                                   | 88,163                                  | 136,966                                       | 154,928                                 | Cash flow from financing activities    | (20,112)           | (16,751)      | (68,499)                 | (88,187)(104,262) |               |
+| Tax                          | (1,216)                                 | (1,393)                                 | (19,018)                                | (29,545)                                      | (33,420)                                | o/w Dividends paid                     | (5,615)            | (5,562)       | (47,918)                 | (79,760)          | (96,235)      |
+| Minority Interest            | 33                                      | (547)                                   | (691)                                   | (1,074)                                       | (1,215)                                 | o/w Shares issued/(repurchased)        | 0                  | 0             | 0                        | 0                 | 0             |
+| Adj. Net Income              | 3,340                                   | 4,519                                   | 68,454                                  | 106,347                                       | 120,294                                 | o/w Net debt issued/(repaid)           | (9,950)            | (7,554)       | (20,582)                 | (8,426)           | (8,028)       |
+| Reported EPS                 | 0.42                                    | 0.57                                    | 8.63                                    | 13.41                                         | 15.17                                   | Net change in cash                     | (13,856)           | (20,295)      | (7,061)                  | 8,714             | 18,359        |
+| Adj. EPS                     | 0.42                                    | 0.57                                    | 8.63                                    | 13.41                                         | 15.17                                   |                                        |                    |               |                          |                   |               |
+| DPS                          | 0.70                                    | 0.80                                    | 6.04                                    | 10.06                                         | 12.13                                   | Adj. Free cash flow to firm y/y Growth | 7,653 (40.4%)      | (754)         | 63,502 (109.8%)(8526.6%) | 98,845 55.7%      | 124,217 25.7% |
+| Payout ratio                 | 166.2%                                  | 140.4%                                  | 70.0%                                   | 75.0%                                         | 80.0%                                   |                                        |                    |               |                          |                   |               |
+| Shares outstanding           | 7,931                                   | 7,931                                   | 7,931                                   | 7,931                                         | 7,931                                   |                                        |                    |               |                          |                   |               |
+| Balance Sheet                | FY24A                                   | FY25A                                   | FY26E                                   | FY27E                                         | FY28E                                   | Ratio Analysis                         | FY24A              | FY25A         | FY26E                    | FY27E             | FY28E         |
+| Cash and cash equivalents    | 66,445                                  | 46,150                                  | 39,089                                  | 47,803                                        | 66,162                                  | Gross margin                           | 7.2%               | 8.3%          | 16.1%                    | 21.5%             | 24.6%         |
+| Accounts receivable          | 41,852                                  | 46,344                                  | 51,663                                  | 63,961                                        | 71,230                                  | EBITDA margin                          | 8.9%               | 10.1%         | 17.2%                    | 21.5%             | 24.1%         |
+| Inventories                  | 51,696                                  | 51,303                                  | 65,804                                  | 81,467                                        | 90,726                                  | EBIT margin                            | 0.2%               | 1.4%          | 9.7%                     | 15.4%             | 18.5%         |
+| Other current assets         | 25,508                                  | 34,039                                  | 36,938                                  | 37,664                                        | 37,421                                  | Net profit margin                      | 1.3%               | 1.7%          | 22.5%                    | 28.2%             | 28.7%         |
+| Current assets               | 185,502                                 | 177,836                                 | 193,494                                 | 230,894                                       | 265,538                                 |                                        |                    |               |                          |                   |               |
+| PP&E                         | 219,151                                 | 208,547                                 | 197,531                                 | 186,524                                       | 172,820                                 | ROE                                    | 0.9%               | 1.3%          | 18.7%                    | 27.2%             | 28.9%         |
+| LT investments               | 170,623                                 | 184,104                                 | 184,104                                 | 184,104                                       | 184,104                                 | ROA                                    | 0.5%               | 0.7%          | 11.2%                    | 16.9%             | 18.4%         |
+| Other non current assets     | 42,198                                  | 40,111                                  | 41,089                                  | 41,089                                        | 41,089                                  | ROCE                                   | 0.1%               | 0.6%          | 4.5%                     | 8.7%              | 11.3%         |
+| Total assets                 | 617,473                                 | 610,598                                 | 616,219                                 | 642,612                                       | 663,552                                 | SG&A/Sales                             | 7.0%               | 6.9%          | 6.4%                     | 6.2%              | 6.1%          |
+|                              |                                         |                                         |                                         |                                               |                                         | Net debt/Equity                        | 0.3                | 0.3           | 0.2                      | 0.2               | 0.1           |
+| Payables                     | 43,368                                  | 41,245                                  | 45,371                                  | 52,530                                        | 56,223                                  |                                        |                    |               |                          |                   |               |
+| Other short term liabilities | 0                                       | 130                                     | 0                                       | 0                                             | 0                                       | Sales/Assets (x)                       | 0.4                | 0.4           | 0.5                      | 0.6               | 0.6           |
+| Current liabilities          | 140,671                                 | 134,700                                 | 122,318                                 | 123,827                                       | 126,621                                 | Assets/Equity (x)                      | 1.8                | 1.7           | 1.7                      | 1.6               | 1.6           |
+| Long-term debt               | 83,336                                  | 79,759                                  | 75,556                                  | 72,779                                        | 65,651                                  | Interest cover (x)                     | 11.2               | 10.7          | 19.9                     | 32.7              | 49.7          |
+| Other long term liabilities  | 30,864                                  | 24,341                                  | 24,341                                  | 24,341                                        | 24,341                                  | Operating leverage                     | 137700.7%644032.2% |               | 4074.2%                  | 401.7%            | 299.9%        |
+|                              |                                         | 238,800                                 |                                         |                                               |                                         | Tax rate                               | 26.9%              | 21.6%         | 21.6%                    | 21.6%             | 21.6%         |
+| Total liabilities            | 254,870                                 |                                         | 222,214                                 | 220,946                                       | 216,613                                 |                                        |                    |               |                          |                   |               |
+| Shareholders' equity         | 346,583                                 | 355,666                                 | 377,180                                 | 403,767                                       | 427,825                                 | Revenue y/y Growth                     | (0.1%)             | 0.1%          | 17.2%                    | 23.8%             | 11.4%         |
+| Minority interests           | 16,020                                  | 16,133                                  | 16,825                                  | 17,899                                        | 19,114                                  | EBITDA y/y Growth                      | (8.9%)             | 13.3%         | 99.3%                    | 55.1%             | 24.9%         |
+| Total liabilities & equity   | 617,473                                 | 610,598                                 | 616,219                                 | 642,612                                       | 663,552                                 | EPS y/y Growth                         | (47.1%)            | 35.3%         | 1414.9%                  | 55.4%             | 13.1%         |
+| BVPS                         | 43.70                                   | 44.85                                   | 47.56                                   | 50.91                                         | 53.94                                   | Valuation                              | FY24A              | FY25A         | FY26E                    | FY27E             | FY28E         |
+| y/y Growth                   | (3.8%)                                  | 2.6%                                    | 6.0%                                    | 7.0%                                          | 6.0%                                    | P/E (x)                                | 330.0              | 244.0         | 16.1                     | 10.4              | 9.2 2.6       |
+| Net debt/(cash)              | 97,939                                  | 126,934                                 | 95,439                                  | 78,299                                        | 51,913                                  | P/BV (x) EV/EBITDA (x) Dividend Yield  | 3.2 52.6 0.5%      | 3.1 47.5 0.6% | 2.9 23.2 4.3%            | 2.7 14.8 7.2%     | 11.6 8.7%     |
+
+Source: Company reports and J.P. Morgan estimates.
+
+Note: NT$ in millions (except per-share data).Fiscal year ends Dec. o/w - out of which
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+
+
+Parsley Ong AC (65) 6882-8578 parsley.rh.ong@jpmorgan.com
+
+
+
+Companies Discussed in This Report (all prices in this report as of market close on 18 June 2026, unless otherwise indicated) Formosa Chemicals and Fibre Corp(1326.TW/NT$54.20/OW), Formosa Petrochemical Corp(6505.TW/NT$53.50/OW), Formosa Plastics Corp(1301.TW/NT$51.70/OW)
+
+Analyst Certification: The Research Analyst(s) denoted by an 'AC' on the cover of this report certifies (or, where multiple Research Analysts are primarily responsible for this report, the Research Analyst denoted by an 'AC' on the cover or within the document individually certifies, with respect to each security or issuer that the Research Analyst covers in this research) that: (1) all of the views expressed in this report accurately reflect the Research Analyst's personal views about any and all of the subject securities or issuers; and (2) no part of any of the Research Analyst's compensation was, is, or will be directly or indirectly related to the specific recommendations or views expressed by the Research Analyst(s) in this report. For all Korea-based Research Analysts listed on the front cover, if applicable, they also certify, as per KOFIA requirements, that the Research Analyst's analysis was made in good faith and that the views reflect the Research Analyst's own opinion, without undue influence or intervention.
+
+All authors named within this report are Research Analysts who produce independent research unless otherwise specified. In Europe, Sector Specialists (Sales and Trading) may be shown on this report as contacts but are not authors of the report or part of the Research Department.
+
+## Important Disclosures
+
+- Market Maker/ Liquidity Provider: J.P. Morgan is a market maker and/or liquidity provider in the financial instruments of/related to Nan Ya Plastics Corp or related entities.
+- Client: J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients: Nan Ya Plastics Corp or related entities.
+- Client/Non-Investment Banking, Securities-Related: J.P. Morgan currently has, or had within the past 12 months, the following entity(ies) as clients, and the services provided were non-investment-banking, securities-related: Nan Ya Plastics Corp or related entities.
+- Non-Investment Banking Compensation Received: J.P. Morgan has received compensation in the past 12 months for products or services other than investment banking from Nan Ya Plastics Corp or related entities.
+- Debt Position: J.P. Morgan may hold a position in the debt securities of Nan Ya Plastics Corp or related entities, if any.
+
+Company-Specific Disclosures : J.P. Morgan does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single factor in making their investment decision. Important disclosures, including price charts and credit opinion history tables (if applicable), are available for compendium reports and all J.P. Morgan-covered companies, and certain non-covered companies, by visiting https://www.jpmm.com/research/disclosures, calling 1-800-477-0406, or e-mailing research.disclosure.inquiries@jpmorgan.com with your request.
+
+NanYaPlasticsCorp(1303.TW,1303TT)PriceChart
+
+
+![[Nan Ya Plastics(1303TW) JPM 260621_008.png]]
+
+
+Source:BloombergFinanceL.P.andJ.P.Morgan;pricedata adjustedforstocksplitsanddividends.
+
+The chart(s) show J.P. Morgan's continuing coverage of the stocks; the current analysts may or may not have covered it over the entire period. J.P. Morgan ratings or designations: OW = Overweight, N= Neutral, UW = Underweight, NR = Not Rated
+
+Explanation of Equity Research Ratings, Designations and Analyst(s) Coverage Universe:
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+| Date      | Rating   |   Price (NT$) |   Price Target (NT$) |
+|-----------|----------|---------------|----------------------|
+| 28-Jun-23 | UW       |         77.10 |                   65 |
+| 10-Apr-24 | UW       |         58.60 |                 52.5 |
+| 13-Jan-25 | UW       |         28.30 |                   24 |
+| 21-Sep-25 | OW       |         39.25 |                   50 |
+| 20-Nov-25 | OW       |         53.80 |                   70 |
+| 14-Jan-26 | OW       |         62.20 |                   80 |
+| 25-Feb-26 | OW       |         90.80 |                  120 |
+| 12-Apr-26 | OW       |         81.60 |                  125 |
+
+J.P. Morgan uses the following rating system: Overweight (over the duration of the price target indicated in this report, we expect this stock will outperform the average total return of the stocks in the Research Analyst's, or the Research Analyst's team's, coverage universe); Neutral (over the duration of the price target indicated in this report, we expect this stock will perform in line with the average total return of the stocks in the Research Analyst's, or the Research Analyst's team's, coverage universe); and Underweight (over the duration of the price target indicated in this report, we expect this stock will underperform the average total return of the stocks in the Research Analyst's, or the Research Analyst's team's, coverage universe. NR is Not Rated. In this case, J.P. Morgan has removed the rating and, if applicable, the price target, for this stock because of either a lack of a sufficient fundamental basis or for legal, regulatory or policy reasons. The previous rating and, if applicable, the price target, no longer should be relied upon. An NR designation is not a recommendation or a rating. Some stocks under coverage have a rating but no price target; in these cases, we expect the stock will outperform/perform in line/underperform the average total return of the stocks in the Research Analyst's, or the Research Analyst's team's, coverage universe of the relevant duration of the region. In our Asia (ex-Australia and exIndia) and U.K. small- and mid-cap Equity Research, each stock's expected total return is compared to the expected total return of a benchmark country market index, not to those Research Analysts' coverage universe. If it does not appear in the Important Disclosures section of this report, the certifying Research Analyst's coverage universe can be found on J.P. Morgan's Research website, https://www.jpmorganmarkets.com.
+
+Coverage Universe: Ong, Parsley : CNGR - A (300919.SZ), CNOOC - A (600938.SS), CNOOC - H (0883.HK), Formosa Chemicals and Fibre Corp (1326.TW), Formosa Petrochemical Corp (6505.TW), Formosa Plastics Corp (1301.TW), GEM - A (002340.SZ), Hanwha Solutions Corp (009830.KS), Hengli Petrochemical - A (600346.SS), Indorama Ventures (IVL.BK), Kumho Petrochemical (011780.KS), LG Chem Ltd (051910.KS), LG Energy Solution (373220.KS), Lotte Chemical Corp (011170.KS), Nan Ya Plastics Corp (1303.TW), PTT Exploration &amp; Production (PTTEP.BK), PTT Global Chemical Pcl (PTTGC.BK), PTT Public Company (PTT.BK), PetroChina - A (601857.SS), PetroChina H (0857.HK), Rongsheng Petro Chemical - A (002493.SZ), S-Oil Corp (010950.KS), SK Innovation (096770.KS), Siam Cement (SCC.BK), Sinopec Corp - A (600028.SS), Sinopec Corp - H (0386.HK), Thai Oil Public Company (TOP.BK), Wanhua Chemical - A (600309.SS)
+
+## J.P. Morgan Equity Research Ratings Distribution, as of April 04, 2026
+
+|                                                        | Overweight (buy)   | Neutral (hold)   | Underweight (sell)   |
+|--------------------------------------------------------|--------------------|------------------|----------------------|
+| J.P. Morgan Global Equity Research Coverage* clients** | 51%                | 37%              | 12%                  |
+| IB                                                     | 83%                | 79%              | 74%                  |
+| JPMS Equity Research Coverage*                         | 49%                | 39%              | 13%                  |
+| IB clients**                                           | 94%                | 93%              | 85%                  |
+
+*Please note that the percentages may not add to 100% because of rounding.
+
+**Percentage of subject companies within each of the "buy," "hold" and "sell" categories for which J.P. Morgan has provided investment banking services within the previous 12 months.
+
+For purposes of FINRA ratings distribution rules only, our Overweight rating falls into a buy rating category; our Neutral rating falls into a hold rating category; and our Underweight rating falls into a sell rating category. Please note that stocks with an NR designation are not included in the table above. This information is current as of the end of the most recent calendar quarter.
+
+Equity Valuation and Risks: For valuation methodology and risks associated with covered companies or price targets for covered companies, please see the most recent company-specific research report at  http://www.jpmorganmarkets.com, contact the primary analyst or your J.P. Morgan representative, or email research.disclosure.inquiries@jpmorgan.com. For material information about the proprietary models used, please see the Summary of Financials in company-specific research reports and the Company Tearsheets, which are available to download on the company pages of our client website,  http://www.jpmorganmarkets.com. This report also sets out within it the material underlying assumptions used.
+
+## History of Investment Recommendations:
+
+A history of J.P. Morgan investment recommendations disseminated during the preceding 12 months can be accessed on the Research &amp; Commentary page of  http://www.jpmorganmarkets.com where you can also search by analyst name, sector or financial instrument.
+
+Analysts' Compensation: The research analysts responsible for the preparation of this report receive compensation based upon various factors, including the quality and accuracy of research, client feedback, competitive factors, and overall firm revenues.
+
+Registration of non-US Analysts: Unless otherwise noted, the non-US analysts listed on the front of this report are employees of non-US affiliates of J.P. Morgan Securities LLC, may not be registered as research analysts under FINRA rules, may not be associated persons of J.P. Morgan Securities LLC, and may not be subject to FINRA Rule 2241 or 2242 restrictions on communications with covered companies, public appearances, and trading securities held by a research analyst account.
+
+## Other Disclosures
+
+J.P. Morgan is a marketing name for investment banking businesses of JPMorgan Chase &amp; Co. and its subsidiaries and affiliates worldwide.
+
+UK MIFID FICC research unbundling exemption: UK clients should refer to UK MIFID Research Unbundling exemption for details of J.P. Morgan's implementation of the FICC research exemption and guidance on relevant FICC research categorisation.
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+Parsley Ong AC (65) 6882-8578 parsley.rh.ong@jpmorgan.com Asia Pacific Equity Research 21 June 2026
+
+
+
+All research material made available to clients are simultaneously available on our client website, J.P. Morgan Markets, unless specifically permitted by relevant laws. Not all research content is redistributed, e-mailed or made available to third-party aggregators. For all research material available on a particular stock, please contact your sales representative.
+
+Any long form nomenclature for references to China; Hong Kong; Taiwan; and Macau within this research material are Mainland China; Hong Kong SAR (China); Taiwan (China); and Macau SAR (China).
+
+J.P. Morgan Research may, from time to time, write on issuers or securities targeted by economic or financial sanctions imposed or administered by the governmental authorities of the U.S., EU, UK or other relevant jurisdictions (Sanctioned Securities). Nothing in this report is intended to be read or construed as encouraging, facilitating, promoting or otherwise approving investment or dealing in such Sanctioned Securities. Clients should be aware of their own legal and compliance obligations when making investment decisions.
+
+Any digital or crypto assets discussed in this research report are subject to a rapidly changing regulatory landscape. For relevant regulatory advisories on crypto assets, including bitcoin and ether, please see https://www.jpmorgan.com/disclosures/cryptoasset-disclosure.
+
+The author(s) of this research report may not be licensed to carry on regulated activities in your jurisdiction and, if not licensed, do not hold themselves out as being able to do so.
+
+Exchange-Traded Funds (ETFs): J.P. Morgan Securities LLC ('JPMS') acts as authorized participant for substantially all U.S.-listed ETFs. To the extent that any ETFs are mentioned in this report, JPMS may earn commissions and transaction-based compensation in connection with the distribution of those ETF shares and may earn fees for performing other trade-related services, such as securities lending to short sellers of the ETF shares. JPMS may also perform services for the ETFs themselves, including acting as a broker or dealer to the ETFs. In addition, affiliates of JPMS may perform services for the ETFs, including trust, custodial, administration, lending, index calculation and/or maintenance and other services.
+
+Options and Futures related research: If the information contained herein regards options- or futures-related research, such information is available only to persons who have received the proper options or futures risk disclosure documents. Please contact your J.P. Morgan Representative or visit https://www.theocc.com/components/docs/riskstoc.pdf  for a copy of the Option Clearing Corporation's Characteristics and Risks of Standardized Options or
+
+https://www.finra.org/sites/default/files/2020-08/Security\_Futures\_Risk\_Disclosure\_Statement\_2020.pdf for a copy of the Security Futures Risk Disclosure Statement.
+
+Changes to Interbank Offered Rates (IBORs) and other benchmark rates: Certain interest rate benchmarks are, or may in the future become, subject to ongoing international, national and other regulatory guidance, reform and proposals for reform. For more information, please consult: https://www.jpmorgan.com/global/disclosures/interbank\_offered\_rates
+
+Private Bank Clients: Where you are receiving research as a client of the private banking businesses offered by JPMorgan Chase &amp; Co. and its subsidiaries ('J.P. Morgan Private Bank'), research is provided to you by J.P. Morgan Private Bank and not by any other division of J.P. Morgan, including, but not limited to, the J.P. Morgan Corporate and Investment Bank and its Global Research division.
+
+Legal entity responsible for the production and distribution of research: The legal entity identified below the name of the Reg AC Research Analyst who authored this material is the legal entity responsible for the production of this research. Where multiple Reg AC Research Analysts authored this material with different legal entities identified below their names, these legal entities are jointly responsible for the production of this research. Where more than one legal entity is listed under an analyst's name, the first legal entity is responsible for the production unless stated otherwise. Research Analysts from various J.P. Morgan affiliates may have contributed to the production of this material but may not be licensed to carry out regulated activities in your jurisdiction (and do not hold themselves out as being able to do so). Unless otherwise stated below in the legal entity disclosures, this material has been distributed by the legal entity responsible for production, or where more than one legal entity is listed under the analyst's name, the first legal entity will be responsible for distribution. If you have any queries, please contact the relevant Research Analyst in your jurisdiction or the entity in your jurisdiction that has distributed this research material.
+
+## Legal Entities Disclosures and Country-/Region-Specific Disclosures:
+
+Argentina: JPMorgan Chase Bank N.A Sucursal Buenos Aires is regulated by Banco Central de la República Argentina ('BCRA'- Central Bank of Argentina) and Comisión Nacional de Valores ('CNV'- Argentinian Securities Commission - ALYC y AN Integral N°51).
+
+Australia: J.P. Morgan Securities Australia Limited ('JPMSAL') (ABN 61 003 245 234/AFS Licence No: 238066) is regulated by the Australian Securities and Investments Commission and is a Market Participant of ASX Limited, a Clearing and Settlement Participant of ASX Clear Pty Limited and a Clearing Participant of ASX Clear (Futures) Pty Limited. This material is issued and distributed in Australia by or on behalf of JPMSAL only to "wholesale clients" (as defined in section 761G of the Corporations Act 2001). A list of all financial products covered can be found by visiting https://www.jpmm.com/research/disclosures. J.P. Morgan seeks to cover companies of relevance to the domestic and international investor base across all Global Industry Classification Standard (GICS) sectors, as well as across a range of market capitalisation sizes. If applicable, in the course of conducting public side due diligence on the subject company(ies), the Research Analyst team may at times perform such diligence through corporate engagements such as site visits, discussions with company representatives, management presentations, etc. Research issued by JPMSAL has been prepared in accordance with J.P. Morgan Australia's Research Independence Policy which can be found at the following link: J.P. Morgan Australia - Research Independence Policy.
+
+Brazil : Banco J.P. Morgan S.A. is regulated by the Comissao de Valores Mobiliarios (CVM) and by the Central Bank of Brazil. Ombudsman J.P. Morgan: 0800-7700847 / 0800-7700810 (For Hearing Impaired) / ouvidoria.jp.morgan@jpmchase.com.
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+Parsley Ong AC (65) 6882-8578 parsley.rh.ong@jpmorgan.com
+
+## J P M O R G A N
+
+Canada : J.P. Morgan Securities Canada Inc. is a registered investment dealer, regulated by the Canadian Investment Regulatory Organization and the Ontario Securities Commission and is the participating member on Canadian exchanges. This material is distributed in Canada by or on behalf of J.P.Morgan Securities Canada Inc.
+
+Chile: Inversiones J.P. Morgan Limitada is an unregulated entity incorporated in Chile.
+
+China: J.P. Morgan Securities (China) Company Limited has been approved by CSRC to conduct the securities investment consultancy business.
+
+Colombia: Banco J.P. Morgan Colombia S.A. is supervised by the Superintendencia Financiera de Colombia (SFC). Any reference in this material to products or services offered abroad by entities other than the Bank in Colombia is included exclusively for descriptive purposes. Such references do not constitute, and should not be construed as, promotional activity or the provision of financial products or services within Colombian territory, as defined under applicable Colombian regulation.
+
+Dubai International Financial Centre (DIFC) : JPMorgan Chase Bank, N.A., Dubai Branch is regulated by the Dubai Financial Services Authority (DFSA) and its registered address is Dubai International Financial Centre - The Gate, West Wing, Level 3 and 9 PO Box 506551, Dubai, UAE. This material has been distributed by JP Morgan Chase Bank, N.A., Dubai Branch to persons regarded as professional clients or market counterparties as defined under the DFSA rules.
+
+European Economic Area (EEA): Unless specified to the contrary, research is distributed in the EEA by J.P. Morgan SE ('JPM SE'), which is authorised as a credit institution by the Federal Financial Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, BaFin) and jointly supervised by the BaFin, the German Central Bank (Deutsche Bundesbank) and the European Central Bank (ECB). JPM SE is a company headquartered in Frankfurt with registered address at TaunusTurm, Taunustor 1, Frankfurt am Main, 60310, Germany. The material has been distributed in the EEA to persons regarded as professional investors (or equivalent) pursuant to Art. 4 para. 1 no. 10 and Annex II of MiFID II and its respective implementation in their home jurisdictions ('EEA professional investors'). This material must not be acted on or relied on by persons who are not EEA professional investors. Any investment or investment activity to which this material relates is only available to EEA relevant persons and will be engaged in only with EEA relevant persons.
+
+Hong Kong : J.P. Morgan Securities (Asia Pacific) Limited (CE number AAJ321) is regulated by the Hong Kong Monetary Authority and the Securities and Futures Commission in Hong Kong, and J.P. Morgan Broking (Hong Kong) Limited (CE number AAB027) is regulated by the Securities and Futures Commission in Hong Kong. JP Morgan Chase Bank, N.A., Hong Kong Branch (CE Number AAL996) is regulated by the Hong Kong Monetary Authority and the Securities and Futures Commission, is organized under the laws of the United States with limited liability. Where the distribution of this material is a regulated activity in Hong Kong, the material is distributed in Hong Kong by or through J.P. Morgan Securities (Asia Pacific) Limited and/or J.P. Morgan Broking (Hong Kong) Limited.
+
+India : J.P. Morgan India Private Limited (Corporate Identity Number - U67120MH1992FTC068724), having its registered office at J.P. Morgan Tower, Off. C.S.T. Road, Kalina, Santacruz - East, Mumbai - 400098, is registered with the Securities and Exchange Board of India (SEBI) as a 'Research Analyst' having registration number INH000001873. J.P. Morgan India Private Limited is also registered with SEBI as a member of the National Stock Exchange of India Limited and the Bombay Stock Exchange Limited (SEBI Registration Number - INZ000239730) and as a Merchant Banker (SEBI Registration Number - MB/INM000002970). Telephone: 91-22-6157 3000, Facsimile: 91-22-6157 3990 and Website: http://www.jpmipl.com. JPMorgan Chase Bank, N.A. - Mumbai Branch is licensed by the Reserve Bank of India (RBI) (Licence No. 53/ Licence No. BY.4/94; SEBI - IN/CUS/014/ CDSL : IN-DP-CDSL-444-2008/ IN-DP-NSDL-285-2008/ INBI00000984/ INE231311239) as a Scheduled Commercial Bank in India, which is its primary license allowing it to carry on Banking business in India and other activities, which a Bank branch in India are permitted to undertake. For non-local research material, this material is not distributed in India by J.P. Morgan India Private Limited. Compliance Officer: Ashutosh Sharma; ashutosh.j.sharma@jpmchase.com; +912261575002. Grievance Officer: Ramprasadh K, jpmipl.research.feedback@jpmorgan.com; +912261573000. Registration granted by SEBI and certification from NISM in no way guarantee performance of the intermediary or provide any assurance of returns to investors. Please visit Terms and Conditions and Most Important Terms and Conditions (MITC). The annual Compliance audit report is available at http://www.jpmipl.com/#research.
+
+Indonesia : PT J.P. Morgan Sekuritas Indonesia is a member of the Indonesia Stock Exchange and is registered and supervised by the Otoritas Jasa Keuangan (OJK).
+
+Korea : J.P. Morgan Securities (Far East) Limited, Seoul Branch, is a member of the Korea Exchange (KRX). JPMorgan Chase Bank, N.A., Seoul Branch, is licensed as a branch office of foreign bank (JPMorgan Chase Bank, N.A.) in Korea. Both entities are regulated by the Financial Services Commission (FSC) and the Financial Supervisory Service (FSS). For non-macro research material, the material is distributed in Korea by or through J.P. Morgan Securities (Far East) Limited, Seoul Branch.
+
+Japan : JPMorgan Securities Japan Co., Ltd. and JPMorgan Chase Bank, N.A., Tokyo Branch are regulated by the Financial Services Agency in Japan.
+
+Malaysia : This material is issued and distributed in Malaysia by JPMorgan Securities (Malaysia) Sdn Bhd (18146-X), which is a Participating Organization of Bursa Malaysia Berhad and holds a Capital Markets Services License issued by the Securities Commission in Malaysia.
+
+Mexico : J.P. Morgan Casa de Bolsa, S.A. de C.V., J.P. Morgan Grupo Financiero is member of the Mexican Stock Exchange ('Bolsa Mexicana de Valores') and the Institutional Stock Exchange ('Bolsa Institucional de Valores'), and it is authorized to act as a broker dealer by the National Banking and Securities Exchange Commission ('Comisión Nacional Bancaria y de Valores').
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+Parsley Ong AC (65) 6882-8578 parsley.rh.ong@jpmorgan.com Asia Pacific Equity Research 21 June 2026
+
+## J P M O R G A N
+
+New Zealand : This material is issued and distributed by JPMSAL in New Zealand only to "wholesale clients" (as defined in the Financial Markets Conduct Act 2013). JPMSAL is registered as a Financial Service Provider under the Financial Service providers (Registration and Dispute Resolution) Act of 2008.
+
+Philippines : J.P. Morgan Securities Philippines Inc. is a Trading Participant of the Philippine Stock Exchange and a member of the Securities Clearing Corporation of the Philippines and the Securities Investor Protection Fund. It is regulated by the Securities and Exchange Commission.
+
+Singapore : This material is issued and distributed in Singapore by or through J.P. Morgan Securities Singapore Private Limited (JPMSS) [MDDI (P) 057/08/2025 and Co. Reg. No.: 199405335R], which is a member of the Singapore Exchange Securities Trading Limited, and/or JPMorgan Chase Bank, N.A., Singapore branch (JPMCB Singapore), both of which are regulated by the Monetary Authority of Singapore. This material is issued and distributed in Singapore only to accredited investors, expert investors and institutional investors, as defined in Section 4A of the Securities and Futures Act, Cap. 289 (SFA). This material is not intended to be issued or distributed to any retail investors or any other investors that do not fall into the classes of 'accredited investors,' 'expert investors' or 'institutional investors,' as defined under Section 4A of the SFA. Recipients of this material in Singapore are to contact JPMSS or JPMCB Singapore in respect of any matters arising from, or in connection with, the material.
+
+South Africa : J.P. Morgan Equities South Africa Proprietary Limited and JPMorgan Chase Bank, N.A., Johannesburg Branch are members of the Johannesburg Securities Exchange and are regulated by the Financial Services Conduct Authority (FSCA).
+
+Taiwan : J.P. Morgan Securities (Taiwan) Limited is a participant of the Taiwan Stock Exchange (company-type) and regulated by the Taiwan Securities and Futures Bureau. Material relating to equity securities is issued and distributed in Taiwan by J.P. Morgan Securities (Taiwan) Limited, subject to the license scope and the applicable laws and the regulations in Taiwan. To the extent that J.P. Morgan Securities (Taiwan) Limited produces research materials on securities not listed on the Taiwan Stock Exchange or Taipei Exchange ('Non-Taiwan Listed Securities'), these materials shall not constitute securities recommendations for the purpose of applicable Taiwan regulations, and, for the avoidance of doubt, J.P. Morgan Securities (Taiwan) Limited does not act as broker for Non-Taiwan Listed Securities. According to Paragraph 2, Article 7-1 of Operational Regulations Governing Securities Firms Recommending Trades in Securities to Customers (as amended or supplemented) and/or other applicable laws or regulations, please note that the recipient of this material is not permitted to engage in any activities in connection with the material that may give rise to conflicts of interests, unless otherwise disclosed in the 'Important Disclosures' in this material.
+
+Thailand : This material is issued and distributed in Thailand by JPMorgan Securities (Thailand) Ltd., which is a member of the Stock Exchange of Thailand and is regulated by the Ministry of Finance and the Securities and Exchange Commission. The registered address is 548 One City Center Building, 50th Floor, Ploenchit Road, Lumphini, Pathum Wan, Bangkok 10330.
+
+UK: Research is produced in the UK by J.P. Morgan Securities plc ('JPMS plc') which is a member of the London Stock Exchange and is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority or J.P. Morgan Markets Limited ('JPMML Ltd') which is authorised and regulated by the Financial Conduct Authority. Unless specified to the contrary, this material is distributed in the UK by JPMS plc and is directed in the UK only to: (a) persons having professional experience in matters relating to investments falling within article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) (Order) 2005 ('the FPO'); (b) persons outlined in article 49 of the FPO (high net worth companies, unincorporated associations or partnerships, the trustees of high value trusts, etc.); or (c) any persons to whom this communication may otherwise lawfully be made; all such persons being referred to as "UK relevant persons". This material must not be acted on or relied on by persons who are not UK relevant persons. Any investment or investment activity to which this material relates is only available to UK relevant persons and will be engaged in only with UK relevant persons. A description of J.P. Morgan EMEA's policy for prevention and avoidance of conflicts of interest related to the production of Research can be found at the following link: J.P. Morgan EMEA - Research Independence Policy.
+
+U.S .: J.P . Morgan Securities LLC ('JPMS') is a member of the NYSE, FINRA, SIPC, and the NFA. JPMorgan Chase Bank, N.A. is a member of the FDIC. Material published by non-U.S. affiliates is distributed in the U.S. by JPMS who accepts responsibility for its content.
+
+General: Additional information is available upon request. The information in this material has been obtained from sources believed to be reliable. While all reasonable care has been taken to ensure that the facts stated in this material are accurate and that the forecasts, opinions and expectations contained herein are fair and reasonable, JPMorgan Chase &amp; Co. or its affiliates and/or subsidiaries (collectively J.P. Morgan) make no representations or warranties whatsoever to the completeness or accuracy of the material provided, except with respect to any disclosures relative to J.P. Morgan and the Research Analyst's involvement with the issuer that is the subject of the material. Accordingly, no reliance should be placed on the accuracy, fairness or completeness of the information contained in this material. There may be certain discrepancies with data and/or limited content in this material as a result of calculations, adjustments, translations to different languages, and/or local regulatory restrictions, as applicable. These discrepancies should not impact the overall investment analysis, views and/or recommendations of the subject company(ies) that may be discussed in the material. Artificial intelligence tools may have been used in the preparation of this material, including assisting in data analysis, pattern recognition, and content drafting for research material. J.P. Morgan accepts no liability whatsoever for any loss arising from any use of this material or its contents, and neither J.P. Morgan nor any of its respective directors, officers or employees, shall be in any way responsible for the contents hereof, apart from the liabilities and responsibilities that may be imposed on them by the relevant regulatory authority in the jurisdiction in question, or the regulatory regime thereunder. Opinions, forecasts or projections contained in this material represent J.P. Morgan's current opinions or judgment as of the date of the material only and are therefore subject to change without notice. Periodic updates may be provided on companies/industries based on company-specific developments or announcements, market conditions or any other publicly available information. There can be no assurance that future results or events will be consistent with any such
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
+
+Parsley Ong AC (65) 6882-8578 parsley.rh.ong@jpmorgan.com Asia Pacific Equity Research 21 June 2026
+
+## J P M O R G A N
+
+opinions, forecasts or projections, which represent only one possible outcome. Furthermore, such opinions, forecasts or projections are subject to certain risks, uncertainties and assumptions that have not been verified, and future actual results or events could differ materially. The value of, or income from, any investments referred to in this material may fluctuate and/or be affected by changes in exchange rates. All pricing is indicative as of the close of market for the securities discussed, unless otherwise stated. Past performance is not indicative of future results. Accordingly, investors may receive back less than originally invested. This material is not intended as an offer or solicitation for the purchase or sale of any financial instrument. The opinions and recommendations herein do not take into account individual client circumstances, objectives, or needs and are not intended as recommendations of particular securities, financial instruments or strategies to particular clients. This material may include views on structured securities, options, futures and other derivatives. These are complex instruments, may involve a high degree of risk and may be appropriate investments only for sophisticated investors who are capable of understanding and assuming the risks involved. The recipients of this material must make their own independent decisions regarding any securities or financial instruments mentioned herein and should seek advice from such independent financial, legal, tax or other adviser as they deem necessary. J.P. Morgan may trade as a principal on the basis of the Research Analysts' views and research, and it may also engage in transactions for its own account or for its clients' accounts in a manner inconsistent with the views taken in this material, and J.P. Morgan is under no obligation to ensure that such other communication is brought to the attention of any recipient of this material. Others within J.P. Morgan, including Strategists, Sales staff and other Research Analysts, may take views that are inconsistent with those taken in this material. Employees of J.P. Morgan not involved in the preparation of this material may have investments in the securities (or derivatives of such securities) mentioned in this material and may trade them in ways different from those discussed in this material. This material is not an advertisement for or marketing of any issuer, its products or services, or its securities in any jurisdiction.
+
+Confidentiality and Security Notice : This transmission may contain information that is privileged, confidential, legally privileged, and/or exempt from disclosure under applicable law. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution, or use of the information contained herein (including any reliance thereon) is STRICTLY PROHIBITED. Although this transmission and any attachments are believed to be free of any virus or other defect that might affect any computer system into which it is received and opened, it is the responsibility of the recipient to ensure that it is virus free and no responsibility is accepted by JPMorgan Chase &amp; Co., its subsidiaries and affiliates, as applicable, for any loss or damage arising in any way from its use. If you received this transmission in error, please immediately contact the sender and destroy the material in its entirety, whether in electronic or hard copy format. This message is subject to electronic monitoring: https://www.jpmorgan.com/disclosures/email
+
+MSCI: Certain information herein ('Information') is reproduced by permission of MSCI Inc., its affiliates and information providers ('MSCI') ©2026. No reproduction or dissemination of the Information is permitted without an appropriate license. MSCI MAKES NO EXPRESS OR IMPLIED WARRANTIES (INCLUDING MERCHANTABILITY OR FITNESS) AS TO THE INFORMATION AND DISCLAIMS ALL LIABILITY TO THE EXTENT PERMITTED BY LAW. No Information constitutes investment advice, except for any applicable Information from MSCI ESG Research. Subject also to msci.com/disclaimer
+
+Sustainalytics: Certain information, data, analyses and opinions contained herein are reproduced by permission of Sustainalytics and: (1) includes the proprietary information of Sustainalytics; (2) may not be copied or redistributed except as specifically authorized; (3) do not constitute investment advice nor an endorsement of any product or project; (4) are provided solely for informational purposes; and (5) are not warranted to be complete, accurate or timely. Sustainalytics is not responsible for any trading decisions, damages or other losses related to it or its use. The use of the data is subject to conditions available at https://www.sustainalytics.com/legal-disclaimers. ©2026 Sustainalytics. All Rights Reserved.
+
+"Other Disclosures" last revised May 16, 2026.
+
+Copyright 2026 JPMorgan Chase &amp; Co. All rights reserved. This material or any portion hereof may not be reprinted, sold or redistributed without the written consent of J.P. Morgan. It is strictly prohibited to use or share without prior written consent from J.P. Morgan any research material received from J.P. Morgan or an authorized third-party ('J.P. Morgan Data') in any third-party artificial intelligence ('AI') systems or models when such J.P. Morgan Data is accessible by a third-party. #$J&amp;098$#*P
+
+Completed 21 Jun 2026 03:15 PM HKT
+
+Disseminated 21 Jun 2026 03:21 PM HKT
+
+JKU FQEW2GPV KU DGKPI RTQ;KFGF HQT VJG G=ENWUK;G WUG QH 6GNUQP "GJ CV -    7916  16 -  5-6       1! 6
